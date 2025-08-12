@@ -1,0 +1,14 @@
+---
+title: "Rust for JavaScript Developers"
+subtitle: "A practical bridge from JS/TS to Rust"
+author: "Felipe Segall"
+publisher: "Livre Solutions"
+lang: en
+rights: "Copyright 2025 Livre Solutions"
+keywords:
+  - Rust
+  - JavaScript
+  - TypeScript
+  - Axum
+  - SQLx
+---

@@ -1,0 +1,25 @@
+title: "...Rust for JavaScript Developers (pt-BR)"
+subtitle: "Uma ponte prática de JS/TS para Rust"
+creator:
+  - "Felipe Segall"
+publisher: "Livre Solutions"
+language: "pt-BR"
+rights: "© 2025 Felipe Segall. Todos os direitos reservados."
+date: 2025-08-10
+edition: "1ª edição"
+identifier:
+  - scheme: UUID
+    text: "urn:uuid:REPLACE-ME"
+subject:
+  - "Rust (Linguagem de programação)"
+  - "JavaScript"
+  - "APIs e serviços web"
+  - "Concorrência e assíncrono"
+  - "Desenvolvimento de software"
+description: |
+  …Rust for JavaScript Developers é uma ponte prática de JS/TS para Rust.
+  O livro mapeia modelos mentais de JavaScript/TypeScript para Rust: módulos → crates/módulos, objetos → structs/enums, tipagem ad hoc → traits e genéricos, erros → Result(T,E).
+  Você aprende com exemplos curtos lado a lado e fecha com um CRUD completo usando Axum e SQLx.
+  Código prático, seguro por tipos, pronto para projetos reais.
+contributor:
+  - "Edição: Livre Solutions"
