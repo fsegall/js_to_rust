@@ -1,5 +1,30 @@
-/target
-**/*.rs.bk
-.DS_Store
+# Rust
+target/
+**/target/**
+*.rs.bk
+
+# mdBook / Pandoc / builds
+book/
+**/book/**
+dist/
+build/
+_output/
+*.pdf
+*.epub
+*.docx
+*.odt
+*.tex
+*.log
+*.aux
+*.toc
+*.out
+
+# DBs locais
 *.sqlite
 *.db
+
+# Node (se houver)
+node_modules/
+
+# SO/Editor
+.DS_Store
